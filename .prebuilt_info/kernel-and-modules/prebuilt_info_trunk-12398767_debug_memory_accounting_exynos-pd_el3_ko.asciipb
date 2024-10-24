@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12398767"
+    target: "bluejay_debug_memory_accounting"
+    source_file: "exynos-pd_el3.ko"
+  }
+  dest_file: "trunk-12398767/debug_memory_accounting/exynos-pd_el3.ko"
+  version: "12398767"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}

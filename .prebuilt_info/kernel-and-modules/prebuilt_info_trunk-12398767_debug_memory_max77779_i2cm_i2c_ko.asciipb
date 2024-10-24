@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12398767"
+    target: "bluejay_debug_memory"
+    source_file: "max77779_i2cm_i2c.ko"
+  }
+  dest_file: "trunk-12398767/debug_memory/max77779_i2cm_i2c.ko"
+  version: "12398767"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}
