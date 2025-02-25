@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12735872"
+    target: "bluejay_kasan"
+    source_file: "exynos-pmu-if.ko"
+  }
+  dest_file: "trunk-12735872/kasan/exynos-pmu-if.ko"
+  version: "12735872"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}
