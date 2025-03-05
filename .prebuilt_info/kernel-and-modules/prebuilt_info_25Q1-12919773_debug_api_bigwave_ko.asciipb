@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12919773"
+    target: "bluejay_debug_api"
+    source_file: "bigwave.ko"
+  }
+  dest_file: "25Q1-12919773/debug_api/bigwave.ko"
+  version: "12919773"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}

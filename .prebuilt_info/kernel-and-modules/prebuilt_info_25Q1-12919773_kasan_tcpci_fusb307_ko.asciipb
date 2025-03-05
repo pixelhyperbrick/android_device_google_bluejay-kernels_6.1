@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12919773"
+    target: "bluejay_kasan"
+    source_file: "tcpci_fusb307.ko"
+  }
+  dest_file: "25Q1-12919773/kasan/tcpci_fusb307.ko"
+  version: "12919773"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}
