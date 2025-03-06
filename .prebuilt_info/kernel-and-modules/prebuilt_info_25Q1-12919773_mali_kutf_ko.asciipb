@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12919773"
+    target: "bluejay"
+    source_file: "mali_kutf.ko"
+  }
+  dest_file: "25Q1-12919773/mali_kutf.ko"
+  version: "12919773"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12919773"
+    target: "bluejay"
+    source_file: "usbc_cooling_dev.ko"
+  }
+  dest_file: "25Q1-12919773/usbc_cooling_dev.ko"
+  version: "12919773"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}

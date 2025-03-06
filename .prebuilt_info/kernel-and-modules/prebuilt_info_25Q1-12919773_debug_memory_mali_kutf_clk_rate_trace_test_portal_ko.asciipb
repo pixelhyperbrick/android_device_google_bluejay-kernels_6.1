@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12919773"
+    target: "bluejay_debug_memory"
+    source_file: "mali_kutf_clk_rate_trace_test_portal.ko"
+  }
+  dest_file: "25Q1-12919773/debug_memory/mali_kutf_clk_rate_trace_test_portal.ko"
+  version: "12919773"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}
