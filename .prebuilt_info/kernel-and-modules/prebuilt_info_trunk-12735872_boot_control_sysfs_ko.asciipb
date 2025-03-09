@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12735872"
+    target: "bluejay"
+    source_file: "boot_control_sysfs.ko"
+  }
+  dest_file: "trunk-12735872/boot_control_sysfs.ko"
+  version: "12735872"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bluejay-kernels/6.1"
+}
